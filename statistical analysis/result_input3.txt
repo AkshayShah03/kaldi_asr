@@ -1,0 +1,22 @@
+Total Sentences: 1798
+Total Words: 23512
+PROPN: 2430 (Unique: 884)
+ADP: 4695 (Unique: 46)
+NOUN: 5674 (Unique: 1431)
+NUM: 130 (Unique: 15)
+AUX: 1293 (Unique: 45)
+PUNCT: 2141 (Unique: 45)
+DET: 306 (Unique: 30)
+VERB: 1814 (Unique: 254)
+PRON: 1648 (Unique: 75)
+ADJ: 2085 (Unique: 486)
+ADV: 203 (Unique: 37)
+SCONJ: 176 (Unique: 8)
+CCONJ: 767 (Unique: 5)
+PART: 131 (Unique: 16)
+X: 19 (Unique: 11)
+
+
+
+result for input_sample3.txt
+
